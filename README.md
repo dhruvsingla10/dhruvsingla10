@@ -2,7 +2,7 @@
 
 ### Mathematics & Statistics Student at McMaster University
 
-I'm a fourth-year student specialising in Statistics interested in using data to solve business problems and uncover insights in the sports industry.
+I'm a fourth-year student specialising in Statistics, and I am interested in using data to solve business problems and uncover insights in the sports industry.
 
 My interests lie at the intersection of **Data Analytics, Sports Analytics, and Business Strategy**. I enjoy working with datasets, building analytical solutions, and translating data into actionable insights.
 
